@@ -12,6 +12,7 @@
 		772806F81FC492B60000AC30 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 772806F61FC492B60000AC30 /* Main.storyboard */; };
 		772806FA1FC492B60000AC30 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 772806F91FC492B60000AC30 /* Assets.xcassets */; };
 		772806FD1FC492B60000AC30 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 772806FB1FC492B60000AC30 /* LaunchScreen.storyboard */; };
+		772807061FC493980000AC30 /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 772807051FC493980000AC30 /* art.scnassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		772806F91FC492B60000AC30 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		772806FC1FC492B60000AC30 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		772806FE1FC492B60000AC30 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		772807051FC493980000AC30 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				772806F21FC492B60000AC30 /* AppDelegate.swift */,
 				772806F41FC492B60000AC30 /* ViewController.swift */,
+				772807051FC493980000AC30 /* art.scnassets */,
 				772806F61FC492B60000AC30 /* Main.storyboard */,
 				772806F91FC492B60000AC30 /* Assets.xcassets */,
 				772806FB1FC492B60000AC30 /* LaunchScreen.storyboard */,
@@ -124,6 +127,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				772806FD1FC492B60000AC30 /* LaunchScreen.storyboard in Resources */,
+				772807061FC493980000AC30 /* art.scnassets in Resources */,
 				772806FA1FC492B60000AC30 /* Assets.xcassets in Resources */,
 				772806F81FC492B60000AC30 /* Main.storyboard in Resources */,
 			);
